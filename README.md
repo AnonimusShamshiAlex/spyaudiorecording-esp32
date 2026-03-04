@@ -1,4 +1,4 @@
-Конечно! Вот красивый и информативный файл `README.md` для твоего проекта:
+
 
 # 🕵️ ESP32 Spy Audio Recorder
 
@@ -185,7 +185,3 @@ MIT License. Используй свободно в образовательны
 
 ---
 
-**Сделано с ❤️ для умного дома и не только**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Project-181717)](https://github.com/)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4)](https://t.me/)
