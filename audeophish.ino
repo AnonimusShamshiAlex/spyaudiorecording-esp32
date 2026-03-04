@@ -4,10 +4,10 @@
 #include <UniversalTelegramBot.h>
 
 // ===== НАСТРОЙКИ =====
-#define WIFI_SSID "ESP_Test"
-#define WIFI_PASS "12345678"
-#define BOT_TOKEN "8444193334:AAH6adrYZEg-id049jKtnl1sKkESuz25c4g"
-#define CHAT_ID "5450100941"
+#define WIFI_SSID "WIFI_YOU"
+#define WIFI_PASS "PASSWORD_YOU"
+#define BOT_TOKEN "BOT_TOKEN_YOU"
+#define CHAT_ID "TGID_YOU"
 
 #define MIC_PIN 34
 #define LED_PIN 2
@@ -237,3 +237,4 @@ void loop() {
     delay(200);
   }
 }
+
